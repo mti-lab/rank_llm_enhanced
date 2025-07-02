@@ -38,12 +38,12 @@ class MultiTurnListwiseInferenceHandler(ListwiseInferenceHandler):
             "prefix_user": TemplateSectionConfig(
                 required=False,
                 required_placeholders=set(),
-                allowed_placeholders={"query", "num"},
+                allowed_placeholders={"query", "num", "preprocessing_instruction"},
             ),
             "suffix_user": TemplateSectionConfig(
                 required=False,
                 required_placeholders=set(),
-                allowed_placeholders={"query", "num"},
+                allowed_placeholders={"query", "num", "preprocessing_reminder"},
             ),
             "output_validation_regex": TemplateSectionConfig(
                 required=True,
@@ -91,7 +91,67 @@ class MultiTurnListwiseInferenceHandler(ListwiseInferenceHandler):
     def _generate_prefix_suffix(
         self, num: int, query: str, **kwargs: Any
     ) -> Tuple[str | List[Dict[str, str]], str]:
-        prefix_fmt_values = suffix_fmt_values = {"num": num, "query": query}
+        # Build preprocessing instruction if available
+        preprocessing_instruction = ""
+        preprocessing_reminder = ""
+        
+        if "result" in kwargs:
+            result = kwargs["result"]
+            query_obj = result.query
+            
+            if hasattr(query_obj, "reranking_instruction") and query_obj.reranking_instruction:
+                instruction_parts = []
+                
+                # Add positive criteria
+                if "positive_criteria" in query_obj.reranking_instruction:
+                    criteria = query_obj.reranking_instruction["positive_criteria"]
+                    if criteria:
+                        instruction_parts.append(
+                            "Prioritize documents that:\n" + 
+                            "\n".join(f"- {criterion}" for criterion in criteria)
+                        )
+                
+                # Add negative criteria  
+                if "negative_criteria" in query_obj.reranking_instruction:
+                    criteria = query_obj.reranking_instruction["negative_criteria"]
+                    if criteria:
+                        instruction_parts.append(
+                            "Deprioritize documents that:\n" + 
+                            "\n".join(f"- {criterion}" for criterion in criteria)
+                        )
+                
+                # Add utility criteria
+                if "utility_for_answer_generation" in query_obj.reranking_instruction:
+                    criteria = query_obj.reranking_instruction["utility_for_answer_generation"]
+                    if criteria:
+                        instruction_parts.append(
+                            "Consider documents useful for answer generation that:\n" + 
+                            "\n".join(f"- {criterion}" for criterion in criteria)
+                        )
+                
+                if instruction_parts:
+                    preprocessing_instruction = "\n\n".join(instruction_parts)
+                    
+                # Add query intent and domain if available
+                context_parts = []
+                if hasattr(query_obj, "intent") and query_obj.intent:
+                    context_parts.append(f"Query intent: {query_obj.intent}")
+                if hasattr(query_obj, "domain") and query_obj.domain:
+                    context_parts.append(f"Domain: {query_obj.domain}")
+                    
+                if context_parts:
+                    preprocessing_reminder = "\n".join(context_parts) + "\n"
+        
+        prefix_fmt_values = {
+            "num": num, 
+            "query": query,
+            "preprocessing_instruction": preprocessing_instruction
+        }
+        suffix_fmt_values = {
+            "num": num, 
+            "query": query,
+            "preprocessing_reminder": preprocessing_reminder
+        }
 
         prefix_text = self._format_template(
             template_key="prefix_user", fmt_values=prefix_fmt_values
@@ -181,7 +241,9 @@ class MultiTurnListwiseInferenceHandler(ListwiseInferenceHandler):
             )
             prompt_messages.extend(fewshot_prompt)
 
-        prefix_prompt, suffix_text = self._generate_prefix_suffix(num=num, query=query)
+        prefix_prompt, suffix_text = self._generate_prefix_suffix(
+            num=num, query=query, result=result
+        )
         is_conversational_body = "body_assistant" in self.template
         body_prompt = self._generate_body(
             result=result,

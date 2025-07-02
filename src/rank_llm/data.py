@@ -9,6 +9,9 @@ from dacite import from_dict
 class Query:
     text: str
     qid: Union[str | int]
+    intent: str = None
+    domain: str = None
+    reranking_instruction: Dict[str, Any] = field(default_factory=dict)
 
 
 @dataclass

@@ -28,6 +28,7 @@ def retrieve_and_rerank(
     num_passes: int = 1,
     interactive: bool = False,
     default_model_coordinator: RankLLM = None,
+    preprocess_file_path: Optional[str] = None,
     **kwargs: Any,
 ):
     """Retrieve candidates using Anserini API and rerank them
@@ -35,6 +36,17 @@ def retrieve_and_rerank(
     Returns:
         - List of top_k_rerank candidates
     """
+    
+    # Load preprocessed queries if path is provided
+    preprocess_loader = None
+    if preprocess_file_path:
+        from rank_llm.preprocess.query_loader import PreprocessedQueryLoader
+        try:
+            preprocess_loader = PreprocessedQueryLoader(preprocess_file_path)
+            print(f"Loaded preprocessed queries from {preprocess_file_path}")
+        except Exception as e:
+            print(f"Warning: Failed to load preprocessed queries: {e}")
+            preprocess_loader = None
 
     # Get reranking model_coordinator
     reranker = Reranker(
@@ -64,6 +76,20 @@ def retrieve_and_rerank(
 
     for request in requests:
         request.candidates = request.candidates[:top_k_retrieve]
+        
+    # Enrich requests with preprocessing information
+    if preprocess_loader:
+        for request in requests:
+            preprocess_info = preprocess_loader.get_preprocessing_info(
+                str(request.query.qid)
+            )
+            if preprocess_info:
+                request.query.intent = preprocess_info.get('intent')
+                request.query.domain = preprocess_info.get('domain')
+                request.query.reranking_instruction = preprocess_info.get(
+                    'reranking_instruction', {}
+                )
+                print(f"Enriched query {request.query.qid} with preprocessing info")
 
     # Reranking stages
     print(f"Reranking and returning {top_k_rerank} passages with {model_path}...")

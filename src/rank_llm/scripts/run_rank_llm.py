@@ -47,6 +47,7 @@ def main(args):
     use_alpha = args.use_alpha
     sglang_batched = args.sglang_batched
     tensorrt_batched = args.tensorrt_batched
+    preprocess_file_path = args.preprocess_file_path
 
     _ = retrieve_and_rerank(
         model_path=model_path,
@@ -80,6 +81,7 @@ def main(args):
         use_alpha=use_alpha,
         sglang_batched=sglang_batched,
         tensorrt_batched=tensorrt_batched,
+        preprocess_file_path=preprocess_file_path,
     )
 
 
@@ -244,6 +246,12 @@ if __name__ == "__main__":
         "--tensorrt_batched",
         action="store_true",
         help="whether to run the model in batches using tensorrtllm backend",
+    )
+    parser.add_argument(
+        "--preprocess_file_path",
+        type=str,
+        required=False,
+        help="Path to the preprocessed query JSON file containing intent, domain, and reranking instructions",
     )
     args = parser.parse_args()
     main(args)
