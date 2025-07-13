@@ -1,0 +1,2602 @@
+[
+  {
+    "query": {
+      "text": "what is vicarious trauma and how can it be coped with?",
+      "qid": "2024-145979",
+      "intent": "definition_and_solution_seeking",
+      "domain": "psychology, mental_health",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a clear and comprehensive definition of vicarious trauma.",
+          "Articles that include practical coping strategies or solutions for dealing with vicarious trauma.",
+          "Sources that are authored by recognized experts in psychology or mental health."
+        ],
+        "negative_criteria": [
+          "Documents that lack depth or fail to clearly explain vicarious trauma.",
+          "Sources that provide vague or unverified coping strategies.",
+          "Content that is overly general or not specifically focused on vicarious trauma."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable definitions or actionable coping advice.",
+          "Self-contained articles that summarize both the definition and coping strategies within the same context.",
+          "Credible sources with references to empirical studies or expert opinions on vicarious trauma."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how did the northwest coast people develop and use animal imagery in their homes?",
+      "qid": "2024-36935",
+      "intent": "fact_finding",
+      "domain": "anthropology, cultural_studies",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide historical context and detailed explanations of animal imagery used by Northwest Coast peoples.",
+          "Sources authored by reputable scholars or institutions specializing in anthropology or indigenous studies.",
+          "Comprehensive resources that encompass various aspects of animal imagery, including its cultural significance, artistic representation, and practical applications in home settings."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevance to the specific cultural practices of the Northwest Coast peoples.",
+          "Sources that are poorly written or contain numerous factual inaccuracies.",
+          "Inadequate or superficial information that does not fully address the query about the development and use of animal imagery."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable insights or primary sources that illustrate the use of animal imagery in homes.",
+          "Self-contained articles that provide a coherent narrative or argument on the topic, making it easy to extract information.",
+          "Credible sources that are widely cited in the field of cultural studies, ensuring the reliability of the information presented."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why disability insurance is a smart investment",
+      "qid": "2024-216592",
+      "intent": "solution_seeking",
+      "domain": "finance, insurance",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed explanations of the benefits and importance of disability insurance as an investment.",
+          "Sources that are authoritative in the field of finance or insurance, such as financial advisors or established insurance companies.",
+          "Comprehensive articles that cover various aspects of disability insurance, including cost, coverage, and real-life scenarios."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevant information about disability insurance or focus on unrelated topics.",
+          "Low-quality sources that do not provide credible information, such as personal blogs with no expertise.",
+          "Incomplete or superficial content that does not fully address the question of why disability insurance is a smart investment."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, quotable statements or statistics about the benefits of disability insurance.",
+          "Self-contained articles that provide a thorough overview without requiring additional context or resources.",
+          "Sources that are credible, such as peer-reviewed articles or reports from recognized financial institutions."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how bad did the vietnam war devastate the economy in 1968",
+      "qid": "2024-32912",
+      "intent": "fact_finding",
+      "domain": "history, economics",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed economic analyses or statistics regarding the impact of the Vietnam War on the economy in 1968.",
+          "Sources from reputable historians or economists that discuss the broader implications of the war on the U.S. economy.",
+          "Comprehensive articles that include both qualitative and quantitative assessments of the economic devastation caused by the war."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or are published by non-authoritative websites.",
+          "Articles that do not directly address the economic impact of the Vietnam War in 1968 or focus on unrelated aspects of the war.",
+          "Incomplete or superficial information that fails to provide a nuanced understanding of the economic consequences."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain well-cited facts and figures that can be directly quoted to support claims.",
+          "Self-contained reports or studies that summarize the economic effects succinctly, allowing for easy extraction of relevant information.",
+          "Sources with high credibility, such as academic journals or government reports, that enhance the reliability of the information presented."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what target stors's policies for shoplifting",
+      "qid": "2024-153051",
+      "intent": "fact_finding",
+      "domain": "retail, loss_prevention",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed descriptions of Target's shoplifting policies and procedures.",
+          "Sources that are official or highly credible, such as Target's own website, legal documents, or reputable news articles.",
+          "Comprehensive guides that cover various aspects of shoplifting policies, including prevention strategies and legal implications."
+        ],
+        "negative_criteria": [
+          "Documents that are outdated or contain inaccurate information regarding Target's policies.",
+          "Sources that lack credibility, such as unverified blogs or forums with anecdotal content.",
+          "Incomplete documents that do not fully address the query or provide vague information."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include direct quotations from official sources or company representatives.",
+          "Self-contained articles that summarize the policies clearly and concisely without needing additional context.",
+          "Sources that have high authority, such as industry reports or expert analyses, which can enhance the reliability of the information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what can a career in civil engineering be like?",
+      "qid": "2024-128784",
+      "intent": "definition_and_solution_seeking",
+      "domain": "engineering, civil_engineering",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed descriptions of the roles, responsibilities, and work environments typical in civil engineering careers.",
+          "Sources that include insights from professionals in the field, such as interviews or case studies.",
+          "Comprehensive guides that cover various aspects of civil engineering, including job prospects, salary expectations, and required skills."
+        ],
+        "negative_criteria": [
+          "Documents that are overly vague or lack specific details about the civil engineering profession.",
+          "Low-quality articles with unverified information or lacking credible sources.",
+          "Content that is outdated or not reflective of current trends and practices in civil engineering."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that are easily quotable and contain clear, concise information relevant to the query.",
+          "Self-contained articles that answer the query without needing external references, ensuring quick access to information.",
+          "Credible sources such as academic articles, industry publications, or reputable career advice websites that enhance reliability."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what do centrists believe about the powers of the president",
+      "qid": "2024-134815",
+      "intent": "definition_seeking",
+      "domain": "politics, political_science",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a clear and concise explanation of centrist beliefs regarding presidential powers.",
+          "Sources that are reputable, such as academic articles, reputable news outlets, or expert analyses.",
+          "Comprehensive documents that cover various aspects of centrist views, including historical context and current implications."
+        ],
+        "negative_criteria": [
+          "Documents that are overly opinionated without factual support or evidence.",
+          "Sources that are not credible or lack authority on the subject matter, such as personal blogs or unverified websites.",
+          "Incomplete documents that do not fully address centrist beliefs or only provide a narrow perspective."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include quotable statements or summaries of centrist positions that can be easily referenced.",
+          "Self-contained documents that provide enough context and information to form a complete answer.",
+          "Articles or papers authored by recognized experts in political science or related fields that lend credibility to the information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how taylor swift's age affects her relationships",
+      "qid": "2024-79081",
+      "intent": "comparison_seeking",
+      "domain": "psychology, relationships",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide in-depth analysis of how age influences relationship dynamics, particularly in the context of celebrity relationships.",
+          "Sources that are authored by credible psychologists or relationship experts, demonstrating authority on the topic.",
+          "Comprehensive articles that include statistical data, studies, or expert opinions specifically relating to Taylor Swift's relationships and age."
+        ],
+        "negative_criteria": [
+          "Documents that offer superficial or anecdotal information without substantial evidence or analysis.",
+          "Content that is overly biased or lacks a balanced perspective on the effects of age on relationships.",
+          "Low-quality sources with no citations or dubious credibility, such as personal blogs or gossip sites."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include well-structured arguments or conclusions that can be easily quoted to support a response.",
+          "Self-contained articles that summarize the key points regarding the relationship between age and relationships, making it easy to extract useful information.",
+          "Sources with a strong reputation or recognition in the field of psychology or celebrity studies, ensuring the reliability of the information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how does the informal recycling sector add to air pollution through burning of e-waste?",
+      "qid": "2024-42497",
+      "intent": "fact_finding",
+      "domain": "environmental_science, waste_management",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed explanations of the processes involved in e-waste burning and its impact on air pollution.",
+          "Sources that include statistical data or case studies illustrating the extent of air pollution caused by the informal recycling sector.",
+          "Authoritative articles or reports from recognized environmental organizations or academic institutions."
+        ],
+        "negative_criteria": [
+          "Documents that are off-topic or do not address the connection between the informal recycling sector and air pollution.",
+          "Sources that lack credible references or are from questionable websites with no expertise on the subject.",
+          "Incomplete articles that do not provide a comprehensive view of the issue or fail to explain the mechanisms of pollution."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable statements or statistics that can be directly used in responses.",
+          "Self-contained articles that summarize the issue effectively, allowing for easy extraction of key points.",
+          "Credible sources that are well-cited and recognized in the field, enhancing the reliability of the generated answer."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what was happening in germany and netherlands in the 1840s",
+      "qid": "2024-158743",
+      "intent": "fact_finding",
+      "domain": "history, European_history",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed historical events or significant occurrences in Germany and the Netherlands during the 1840s.",
+          "Sources that are recognized as authoritative, such as academic journals, history books, or reputable websites.",
+          "Comprehensive analyses that include social, political, and economic aspects of the period."
+        ],
+        "negative_criteria": [
+          "Documents that are overly vague or do not specifically address the 1840s in Germany and the Netherlands.",
+          "Sources that lack credibility, such as personal blogs or unverified sites that do not provide citations.",
+          "Incomplete information that fails to provide context or background on the events discussed."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable passages or well-researched facts that can be easily referenced.",
+          "Self-contained articles or sections that summarize key events and trends from the 1840s in both countries.",
+          "Credible sources that include proper citations and references for further reading."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why are trade-offs so important to the success of a business?",
+      "qid": "2024-214630",
+      "intent": "fact_finding",
+      "domain": "business, management",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a comprehensive explanation of trade-offs in business contexts.",
+          "Sources that are authored by recognized experts in business strategy or management.",
+          "Content that includes practical examples or case studies illustrating the importance of trade-offs."
+        ],
+        "negative_criteria": [
+          "Documents that are overly simplistic or lack depth in discussing trade-offs.",
+          "Sources that are not credible, such as personal blogs or opinion pieces without research backing.",
+          "Content that is outdated or does not reflect current business practices and theories."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable statements or statistics about trade-offs in business.",
+          "Self-contained information that directly addresses the query without requiring additional context.",
+          "Sources with high credibility, such as academic articles, business journals, or reputable news outlets."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what is scientific evidence for or against the use of yoghurt",
+      "qid": "2024-143869",
+      "intent": "fact_finding",
+      "domain": "medicine, healthcare",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide empirical studies or meta-analyses on the health effects of yoghurt.",
+          "Articles from reputable journals or organizations that discuss both supportive and opposing evidence regarding yoghurt use.",
+          "Comprehensive reviews that summarize existing research and evidence concerning yoghurt's benefits and drawbacks."
+        ],
+        "negative_criteria": [
+          "Documents that lack scientific references or rely on anecdotal evidence without proper citations.",
+          "Content that is overly promotional or biased towards yoghurt without presenting counterarguments.",
+          "Incomplete articles that do not address both sides of the evidence or fail to provide a balanced view."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include clear, quotable statements backed by research findings.",
+          "Self-contained articles that summarize key points effectively, allowing for easy extraction of relevant information.",
+          "Sources that are recognized for their credibility, such as peer-reviewed journals or expert organizations in the field of nutrition or health."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "when providing junior leaders leader development training, what significant opportunities should be provided?",
+      "qid": "2024-173513",
+      "intent": "solution_seeking",
+      "domain": "leadership_development, training",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide specific examples of significant opportunities for junior leaders in development training.",
+          "Sources that are authored by recognized experts or institutions in leadership training and development.",
+          "Comprehensive articles that cover various aspects of leader development training, including methodologies, programs, and case studies."
+        ],
+        "negative_criteria": [
+          "Documents that are off-topic or do not address the query about junior leaders and training opportunities.",
+          "Low-quality articles with poor writing, lack of structure, or numerous grammatical errors.",
+          "Incomplete resources that fail to provide actionable information or leave key questions unanswered."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear and quotable insights or recommendations regarding leader development training.",
+          "Self-contained information that does not require readers to seek additional sources to understand the content.",
+          "Credible sources with proper citations and references that enhance trustworthiness and reliability."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what did bonding mean in australia for students",
+      "qid": "2024-133137",
+      "intent": "definition_seeking",
+      "domain": "education, sociology",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a clear and concise definition of 'bonding' in the context of Australian students.",
+          "Sources that include examples or case studies related to bonding experiences in educational settings.",
+          "Articles or papers authored by credible experts in education or sociology."
+        ],
+        "negative_criteria": [
+          "Documents that are off-topic or do not relate to the concept of bonding in an educational context.",
+          "Sources with insufficient detail or that lack substantive information on the topic.",
+          "Poorly written or unverified content that does not come from reputable sources."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable definitions or explanations of bonding relevant to students in Australia.",
+          "Self-contained articles that provide a comprehensive overview of bonding's meaning and implications.",
+          "Sources that are published in reputable educational journals or organizations."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how did mexican murals affect influence the social structure?",
+      "qid": "2024-36155",
+      "intent": "fact_finding",
+      "domain": "art, sociology",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide historical context and analysis of Mexican murals and their societal implications.",
+          "Papers authored by credible scholars or institutions that explore the intersection of art and social structures.",
+          "Comprehensive articles that discuss various aspects of Mexican murals, including specific examples and their impact on communities."
+        ],
+        "negative_criteria": [
+          "Irrelevant documents that focus on unrelated topics or general art history without addressing social structures.",
+          "Poorly sourced or non-academic articles that lack depth or scholarly rigor.",
+          "Incomplete information that does not sufficiently cover the relationship between murals and social structure."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include direct quotes or data that can be easily referenced in an answer.",
+          "Self-contained articles that summarize key points about the influence of Mexican murals on social structures.",
+          "Materials from reputable sources that enhance the credibility of the information presented."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "can someone become lactose intolerant over a period of time?",
+      "qid": "2024-12875",
+      "intent": "fact_finding",
+      "domain": "medicine, healthcare",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed explanations about lactose intolerance, including its causes and development over time.",
+          "Sources authored by medical professionals or reputable health organizations that are recognized for their authority on dietary issues.",
+          "Comprehensive articles that include recent studies or data on lactose intolerance and its progression."
+        ],
+        "negative_criteria": [
+          "Documents that are overly general or do not specifically address the development of lactose intolerance over time.",
+          "Low-quality sources with no credible authorship or lack of references.",
+          "Incomplete information that fails to cover key aspects of lactose intolerance."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, concise definitions and explanations that can be easily quoted.",
+          "Self-contained articles that summarize the topic effectively without requiring additional context.",
+          "Sources with high credibility that are well-cited and provide a solid scientific foundation."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how does i-5 relate to redlining in the puget sound",
+      "qid": "2024-41477",
+      "intent": "comparison_seeking",
+      "domain": "urban_planning, social_justice",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a detailed historical context of I-5 and its impact on communities in the Puget Sound region.",
+          "Sources that discuss the connection between infrastructure development and redlining policies with empirical data or case studies.",
+          "Authoritative articles or studies from urban planning or social justice experts that analyze the implications of I-5 on marginalized communities."
+        ],
+        "negative_criteria": [
+          "Articles that focus solely on general information about I-5 without any mention of redlining.",
+          "Sources that lack credible authorship or are from non-reliable websites.",
+          "Documents that provide incomplete information or fail to make a clear connection between I-5 and redlining."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include direct quotes or statistics that can be used to support a comprehensive answer.",
+          "Self-contained articles that summarize the relationship between I-5 and redlining, providing a clear narrative.",
+          "Sources with a high level of credibility, such as academic papers, government reports, or recognized news outlets."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "explain how hereditary diseases are passed from one generation to another.",
+      "qid": "2024-29941",
+      "intent": "definition_and_solution_seeking",
+      "domain": "medicine, healthcare",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a clear and thorough explanation of the mechanisms of heredity and genetic transmission of diseases.",
+          "Sources that are published by reputable medical organizations, journals, or educational institutions.",
+          "Content that includes practical examples or case studies to illustrate how hereditary diseases are passed down."
+        ],
+        "negative_criteria": [
+          "Documents that lack scientific backing or references to credible sources.",
+          "Content that is overly simplistic or fails to address the complexities of genetic inheritance.",
+          "Articles with outdated information or those that do not cover the topic comprehensively."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain well-structured information that can be directly quoted for clarity.",
+          "Sources that are self-contained, providing both definitions and explanations without requiring external references.",
+          "Materials authored by experts in genetics or hereditary medicine, ensuring high credibility."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what does it mean to take a holistic approach to ai?",
+      "qid": "2024-137315",
+      "intent": "definition_seeking",
+      "domain": "technology, artificial_intelligence",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a clear and comprehensive definition of a holistic approach to AI.",
+          "Sources that are authored by recognized experts in artificial intelligence or related fields.",
+          "Content that includes practical examples or case studies illustrating a holistic approach to AI."
+        ],
+        "negative_criteria": [
+          "Documents that contain vague or overly technical jargon without clear explanations.",
+          "Sources that are not credible or lack authoritative backing.",
+          "Content that offers incomplete or superficial information on the topic."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that can be easily quoted to provide concise definitions or explanations.",
+          "Self-contained articles that summarize the concept without needing additional context.",
+          "Sources that are well-cited and have a strong reputation in the field of AI."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how europe solved its russian gas problem",
+      "qid": "2024-43037",
+      "intent": "solution_seeking",
+      "domain": "energy, geopolitics",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed accounts of strategies and measures taken by European countries to reduce reliance on Russian gas.",
+          "Sources that include expert analysis or insights from credible institutions or authorities in energy policy.",
+          "Comprehensive articles that discuss both short-term and long-term solutions, including alternative energy sources and policy changes."
+        ],
+        "negative_criteria": [
+          "Documents that are off-topic or do not address the specific context of Europe's energy situation regarding Russian gas.",
+          "Sources with low credibility, such as opinion pieces lacking factual support or data.",
+          "Incomplete articles that do not cover the necessary aspects of the solutions implemented by Europe."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable statistics or significant statements from reputable figures or organizations.",
+          "Self-contained information that offers a clear and comprehensive summary of Europe's strategies related to Russian gas.",
+          "Sources that are well-cited and provide links to original data or further reading for deeper understanding."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how has inclusivity made vogue magazine more popular",
+      "qid": "2024-43983",
+      "intent": "fact_finding",
+      "domain": "media, fashion",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide comprehensive analysis of Vogue magazine's inclusivity initiatives and their impact on popularity.",
+          "Sources that are authoritative, such as industry experts, reputable fashion analysts, or studies that examine trends in fashion media.",
+          "Content that includes specific examples of inclusivity efforts by Vogue and quantifiable metrics of popularity growth."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevance to the topic of inclusivity and Vogue magazine.",
+          "Sources that are low-quality, such as personal blogs or unverified opinions without credible backing.",
+          "Content that is overly general or does not specifically address the relationship between inclusivity and popularity."
+        ],
+        "utility_for_answer_generation": [
+          "Articles that provide quotable statistics or insights directly related to the question.",
+          "Self-contained documents that summarize key points about inclusivity's impact on Vogue's popularity without needing external context.",
+          "Credible sources that enhance trustworthiness, such as peer-reviewed articles or reports from recognized fashion industry organizations."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why are most inmate suicides occruing july - september",
+      "qid": "2024-214126",
+      "intent": "fact_finding",
+      "domain": "psychology, mental_health",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide statistical data or research studies on inmate suicides, particularly focusing on seasonal trends.",
+          "Sources from reputable mental health organizations or governmental reports that discuss factors contributing to inmate suicides during the specified months.",
+          "Comprehensive articles that analyze psychological, environmental, or systemic factors affecting inmate mental health in relation to the time frame."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or are opinion pieces without factual backing.",
+          "Articles that do not specifically address the seasonal aspect of inmate suicides or are off-topic.",
+          "Content that is outdated or does not reflect recent data or research in the field."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, well-cited statistics or findings that can be easily quoted.",
+          "Self-contained articles that directly answer the query with relevant context and explanations.",
+          "Materials from credible authors or researchers in the field of psychology or corrections that are recognized for their work."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what would happen if we expanded unemployment benefits",
+      "qid": "2024-161461",
+      "intent": "solution_seeking",
+      "domain": "economics, public_policy",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed analysis or predictions regarding the effects of expanding unemployment benefits.",
+          "Sources from reputable economists, think tanks, or policy organizations that discuss economic impacts and social implications.",
+          "Comprehensive articles that explore various perspectives, including benefits and drawbacks of expanding unemployment benefits."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or come from unreliable websites.",
+          "Content that only offers anecdotal evidence without any empirical data or analysis.",
+          "Overly brief documents that do not delve into the complexities of the topic or fail to address the query adequately."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, quotable insights or statistics related to the effects of unemployment benefits.",
+          "Self-contained articles that summarize key findings and implications, making it easy to extract relevant information.",
+          "Credible sources that are well-cited and provide a balanced view, which can enhance the overall quality of the generated answer."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why is britain turning into the under-40s diabetes capital of the world?",
+      "qid": "2024-220140",
+      "intent": "fact_finding",
+      "domain": "medicine, healthcare",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide statistical data or evidence on diabetes prevalence among under-40s in Britain.",
+          "Articles authored by credible health organizations or experts in diabetes research.",
+          "Comprehensive analyses that discuss causes, effects, and potential solutions to the rising diabetes rates."
+        ],
+        "negative_criteria": [
+          "Documents that lack reliable sources or are based on anecdotal evidence.",
+          "Articles that provide outdated or irrelevant information regarding diabetes trends.",
+          "Content that is overly promotional or lacks a critical examination of the issue."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, quotable statistics or findings relevant to the query.",
+          "Self-contained articles that summarize the problem, contributing factors, and implications for the under-40 demographic.",
+          "Sources that are recognized for their credibility in the healthcare field, ensuring trustworthiness of the information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why should teachers always be reviewing their instruction",
+      "qid": "2024-224279",
+      "intent": "solution_seeking",
+      "domain": "education, pedagogy",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide evidence-based practices or research supporting the need for ongoing instructional review.",
+          "Articles or resources authored by recognized experts in education or pedagogy.",
+          "Comprehensive guides that outline practical strategies for teachers to effectively review and improve their instruction."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or references, making them less authoritative.",
+          "Content that is overly vague or does not directly address the query about instructional review.",
+          "Resources that provide outdated or irrelevant information regarding teaching practices."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, quotable statements or statistics that can be used to support the rationale for reviewing instruction.",
+          "Self-contained articles that offer a complete perspective on the topic without requiring external references.",
+          "Sources that are widely recognized and cited in educational discussions, enhancing their credibility."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what do auditors become after a rapid professional growth?",
+      "qid": "2024-134629",
+      "intent": "definition_and_solution_seeking",
+      "domain": "business, career_development",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide clear definitions or explanations of career progression for auditors.",
+          "Articles that include testimonials or case studies of auditors who have experienced rapid professional growth.",
+          "Resources that discuss the implications of rapid growth on career paths, including potential roles and responsibilities."
+        ],
+        "negative_criteria": [
+          "Documents that are outdated or lack current information on the auditing profession.",
+          "Sources that contain vague or generalized statements without specific examples related to auditors.",
+          "Articles with low credibility, such as personal blogs or unverified sources that do not reflect professional insights."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that can be easily quoted to provide direct answers or insights into the query.",
+          "Sources that contain comprehensive information that addresses various aspects of auditors' career progression.",
+          "Credible and authoritative sources that enhance trust in the information provided, such as publications from recognized industry bodies."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how much does the chinese government bowlderize its citizens",
+      "qid": "2024-69711",
+      "intent": "fact_finding",
+      "domain": "politics, censorship",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed information on censorship practices by the Chinese government.",
+          "Sources that are authoritative, such as academic articles, reputable news organizations, or government reports.",
+          "Comprehensive analyses that discuss the implications of censorship on citizens' rights and freedoms."
+        ],
+        "negative_criteria": [
+          "Documents that are irrelevant to the topic of censorship in China or do not specifically address the government's actions.",
+          "Poor-quality sources with no credible backing, such as personal blogs or unverified opinion pieces.",
+          "Incomplete information that fails to provide context or fails to address the scope of censorship."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include direct quotes or statistics that can be readily cited in discussions about censorship.",
+          "Self-contained articles that summarize key points about the extent of censorship and its impact on citizens.",
+          "Sources with high credibility and recognition in the field of political science or human rights, ensuring reliability of the information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "are relativity and determinism compatible?",
+      "qid": "2024-5957",
+      "intent": "comparison_seeking",
+      "domain": "philosophy, physics",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide in-depth analysis of the relationship between relativity and determinism.",
+          "High-quality sources such as academic papers, reputable books, or expert opinions in the fields of philosophy and physics.",
+          "Comprehensive discussions that cover various perspectives, including historical context, implications, and counterarguments."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or are written by authors without relevant expertise.",
+          "Content that is overly simplistic or fails to engage with the complexities of the topic.",
+          "Incomplete articles that do not provide a thorough examination of the compatibility issue."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include quotable statements or conclusions from recognized authorities in the fields.",
+          "Self-contained articles that provide a complete overview of the topic without requiring external references.",
+          "Sources with high credibility, such as peer-reviewed journals or published works by experts in philosophy and physics."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why are marijuana users stereotypically portrayed as sluggish people with the munchies?",
+      "qid": "2024-214096",
+      "intent": "fact_finding",
+      "domain": "psychology, cultural_studies",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide well-researched insights into the psychological and cultural stereotypes associated with marijuana use.",
+          "Sources that reference empirical studies or expert opinions on the behaviors and perceptions of marijuana users.",
+          "Comprehensive articles that explore the origins and societal implications of these stereotypes."
+        ],
+        "negative_criteria": [
+          "Documents that provide anecdotal or unverified claims without scientific backing.",
+          "Sources that lack depth, offering superficial explanations without exploring the topic thoroughly.",
+          "Content that is biased or promotes stigmatization without addressing counterarguments or diverse perspectives."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable statistics or expert quotes relevant to the perceptions of marijuana users.",
+          "Self-contained articles that summarize the stereotypes and their cultural significance clearly and concisely.",
+          "Credible sources that are recognized in the field of psychology or cultural studies, enhancing reliability."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why has olive oil increased in price",
+      "qid": "2024-219624",
+      "intent": "fact_finding",
+      "domain": "economics, food_pricing",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide comprehensive analyses of factors influencing olive oil prices, such as market trends, supply chain issues, and economic conditions.",
+          "Sources that are authoritative, such as reports from reputable economic organizations, industry experts, or academic studies.",
+          "Documents that offer practical insights or forecasts regarding future price trends and consumer impact."
+        ],
+        "negative_criteria": [
+          "Documents that lack depth or fail to address the specific reasons for the price increase.",
+          "Sources that are poorly written, filled with inaccuracies, or lack credible citations.",
+          "Information that is outdated or irrelevant to current market conditions surrounding olive oil."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable statistics or statements from experts about the reasons for the price increase.",
+          "Self-contained articles that summarize the key factors affecting olive oil prices without needing additional context.",
+          "Credible sources that can be referenced for further exploration of the economic principles behind food pricing."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why is being born premature a risk factor for child abuse",
+      "qid": "2024-220058",
+      "intent": "fact_finding",
+      "domain": "psychology, mental_health",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide comprehensive explanations of the link between premature birth and child abuse, including statistical data and research findings.",
+          "Sources authored by experts in psychology, child development, or social work that are published in reputable journals or organizations.",
+          "Content that discusses both the psychological impact on the child and societal factors contributing to the increased risk of abuse."
+        ],
+        "negative_criteria": [
+          "Documents that contain irrelevant information not directly related to the query about premature birth and child abuse.",
+          "Sources that lack citations or fail to reference credible research, indicating a lack of authority or reliability.",
+          "Incomplete articles that do not address the reasons behind the link between premature birth and child abuse adequately."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include direct quotes from experts or studies that can be easily referenced in an answer.",
+          "Self-contained documents that summarize the main points clearly, enabling quick extraction of key information.",
+          "Sources with high credibility, such as peer-reviewed articles or publications from well-known institutions, which lend authority to the information provided."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how much support did the patriot act receive?",
+      "qid": "2024-73340",
+      "intent": "fact_finding",
+      "domain": "politics, law",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide quantitative data or statistics on the support for the Patriot Act, including public opinion polls or legislative voting records.",
+          "Sources that are reputable, such as government reports, academic articles, or recognized news outlets.",
+          "Comprehensive analyses that discuss the context of the support, including historical perspectives and implications."
+        ],
+        "negative_criteria": [
+          "Documents that contain vague or anecdotal information without solid data or references.",
+          "Sources that lack credibility, such as personal blogs or unverified websites.",
+          "Incomplete discussions that do not address the question of support specifically, focusing instead on unrelated aspects of the Patriot Act."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that are quotable, providing clear, concise statements or statistics that directly address the level of support.",
+          "Self-contained articles that summarize the support for the Patriot Act in a way that allows for straightforward extraction of relevant information.",
+          "Sources with high credibility, such as academic publications or official government documents, enhancing the reliability of the answer generated."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how has good morning accenture impacted the company?",
+      "qid": "2024-43972",
+      "intent": "fact_finding",
+      "domain": "business, corporate_communications",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a clear analysis of the impact of 'Good Morning Accenture' on the company, backed by data or case studies.",
+          "Sources that are credible and authored by recognized experts or reputable organizations.",
+          "Comprehensive documents that cover various aspects of the impact, including employee feedback, company performance metrics, and customer reactions."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevant information about 'Good Morning Accenture' or its impacts.",
+          "Low-quality sources that are not authoritative, such as personal blogs or unverified websites.",
+          "Incomplete articles that do not provide a thorough exploration of the topic."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include quotable statements or insights from industry experts regarding the impact of 'Good Morning Accenture'.",
+          "Self-contained articles that summarize key findings and implications in a clear manner.",
+          "Credible sources that are well-cited, ensuring that the information can be verified and trusted."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "does income factor into black women marrying white men",
+      "qid": "2024-26688",
+      "intent": "fact_finding",
+      "domain": "sociology, demographics",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide statistical analyses or studies on marriage patterns between black women and white men, specifically including discussions of income factors.",
+          "Sources that are authoritative, such as peer-reviewed journals, reputable demographic studies, or expert commentary in the field of sociology.",
+          "Comprehensive articles that address multiple aspects of the query, including socio-economic factors, cultural influences, and marriage dynamics."
+        ],
+        "negative_criteria": [
+          "Documents that present opinion pieces or anecdotal evidence without backing them up with data or research.",
+          "Sources that lack credibility, such as personal blogs or non-expert commentary that do not provide substantial information on the topic.",
+          "Incomplete articles that do not fully discuss the relationship between income and marriage patterns, or fail to mention relevant contexts."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear and concise data or findings that can be directly quoted to support claims about the influence of income on marriage decisions.",
+          "Self-contained information that summarizes the relationship between income and the demographic in question, making it easy to extract relevant insights.",
+          "Credible sources that provide thorough citations and references, allowing for further exploration of the topic if needed."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how hatred is used as a tool to unite people in 1984",
+      "qid": "2024-44060",
+      "intent": "fact_finding",
+      "domain": "literature, dystopian_studies",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents should provide a thorough analysis of the theme of hatred in George Orwell's '1984', including specific examples from the text.",
+          "Highly ranked documents should come from reputable literary criticisms or academic sources that explore the socio-political implications of hatred in the narrative.",
+          "Documents that connect the use of hatred as a unifying tool to broader themes of control and manipulation in '1984' will be prioritized."
+        ],
+        "negative_criteria": [
+          "Documents that lack textual evidence or do not directly address the theme of hatred in '1984' should be ranked lower.",
+          "Poorly written or unclear documents that do not provide a coherent analysis of the topic will be deprioritized.",
+          "Sources that are not credible, such as personal blogs or unverified websites, will be ranked lower."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable passages or direct quotes from '1984' that illustrate the use of hatred as a unifying tool.",
+          "Self-contained documents that summarize the theme of hatred and its role in the story while providing an analysis will be highly useful.",
+          "Sources that include credible authors or established scholars in the field of literary analysis will enhance the reliability of the generated answer."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how were the non aligned countries affected by boris yeltsin",
+      "qid": "2024-96359",
+      "intent": "fact_finding",
+      "domain": "politics, international_relations",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a detailed analysis of the impact of Boris Yeltsin's policies on non-aligned countries, including historical context.",
+          "Sources that are authored by reputable historians or political analysts with expertise in post-Soviet foreign relations.",
+          "Comprehensive articles that include credible data, case studies, or firsthand accounts that illustrate the effects on non-aligned nations."
+        ],
+        "negative_criteria": [
+          "Articles that lack citations or references to reputable sources, suggesting a lack of credibility.",
+          "Documents that focus primarily on unrelated topics or provide superficial coverage of Yeltsin’s impact on non-aligned countries.",
+          "Content that is overly opinionated without supporting evidence or analysis, reducing its reliability."
+        ],
+        "utility_for_answer_generation": [
+          "Sources that contain clear, quotable statements regarding the effects of Yeltsin's policies on specific non-aligned countries.",
+          "Self-contained documents that summarize the impact effectively, allowing for easy extraction of key points.",
+          "Credible publications that provide a balanced view, incorporating multiple perspectives on the effects of Yeltsin's leadership."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what might happen if your financial behaviors don't align with your values?",
+      "qid": "2024-147909",
+      "intent": "solution_seeking",
+      "domain": "psychology, personal_finance",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Provides evidence-based insights on the psychological impact of misaligned financial behaviors and values",
+          "Includes case studies or examples illustrating the consequences of such misalignments",
+          "Offers practical advice or strategies for aligning financial behaviors with personal values"
+        ],
+        "negative_criteria": [
+          "Contains vague or general statements without supporting evidence or examples",
+          "Lacks credibility due to unverified sources or questionable authorship",
+          "Focuses on unrelated topics or fails to address the query directly"
+        ],
+        "utility_for_answer_generation": [
+          "Includes direct quotes or data that can be easily referenced in response generation",
+          "Contains comprehensive information that answers the query thoroughly",
+          "Is authored by reputable experts or published in credible sources"
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how does plutonium help us improve technology?",
+      "qid": "2024-41918",
+      "intent": "solution_seeking",
+      "domain": "technology, nuclear_science",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed explanations of the applications of plutonium in technology.",
+          "Sources that cite credible research or expert opinions on the benefits of plutonium in technological advancements.",
+          "Comprehensive articles that cover multiple aspects of plutonium's role in technology, including safety, efficiency, and innovation."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevance to the query, such as those discussing plutonium in unrelated contexts (e.g., history or politics).",
+          "Poor quality sources with unverified claims or lacking citations.",
+          "Incomplete information that fails to address how plutonium specifically contributes to technological improvements."
+        ],
+        "utility_for_answer_generation": [
+          "Sources that include quotable statements or statistics that succinctly summarize plutonium's impact on technology.",
+          "Documents that are self-contained, providing a clear answer to the query without requiring additional context.",
+          "Credible articles or studies from recognized institutions or experts in nuclear science and technology."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what have teen done to stop animal testing",
+      "qid": "2024-142395",
+      "intent": "solution_seeking",
+      "domain": "animal_welfare, activism",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide specific examples of actions taken by teens to stop animal testing",
+          "Sources that are recognized authorities on animal rights or youth activism",
+          "Comprehensive articles that cover various strategies and initiatives led by teens"
+        ],
+        "negative_criteria": [
+          "Documents that are overly general and do not mention specific actions or results",
+          "Sources with low credibility or those that lack citations",
+          "Incomplete articles that do not fully address the query or provide insufficient detail"
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include quotable statistics or impactful quotes from teens involved in the movement",
+          "Self-contained articles that summarize key actions and their impacts without requiring additional context",
+          "Credible sources that are well-cited and provide a balanced view of the topic"
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how does lauren oakes address the issue of individual action",
+      "qid": "2024-41610",
+      "intent": "solution_seeking",
+      "domain": "environmental_science, social_action",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a detailed explanation of Lauren Oakes' views or strategies regarding individual action.",
+          "Sources that include case studies or examples illustrating the impact of individual action as discussed by Oakes.",
+          "Authoritative articles or papers that are published in reputable journals or platforms related to environmental science or social action."
+        ],
+        "negative_criteria": [
+          "Irrelevant documents that do not mention Lauren Oakes or individual action in a meaningful way.",
+          "Low-quality articles with superficial analysis or lack of depth regarding the topic.",
+          "Outdated information that may not reflect current views or strategies proposed by Lauren Oakes."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain direct quotes or paraphrased ideas from Lauren Oakes that can be easily cited.",
+          "Self-contained articles that summarize her key arguments and provide actionable insights.",
+          "Credible sources that establish a clear connection between individual action and the broader context of Oakes' work."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how did the idea of a father change in suburbanization",
+      "qid": "2024-36857",
+      "intent": "fact_finding",
+      "domain": "sociology, family studies",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide historical and sociological context on the role of fathers during suburbanization.",
+          "Sources that include empirical studies, statistics, or comprehensive analyses of family dynamics in suburban areas.",
+          "Authoritative articles or books written by recognized experts in sociology or family studies."
+        ],
+        "negative_criteria": [
+          "Documents that lack a clear focus on suburbanization or the role of fathers.",
+          "Low-quality sources such as opinion pieces or personal blogs that do not provide evidence or credible analysis.",
+          "Incomplete documents that do not cover the topic thoroughly or are overly brief."
+        ],
+        "utility_for_answer_generation": [
+          "Quotable excerpts that clearly articulate how perceptions of fatherhood have shifted due to suburbanization.",
+          "Self-contained information that provides a thorough overview of the topic without requiring additional context.",
+          "Citations from reputable academic sources that enhance the credibility of the information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how does bee sting affect quality of life?",
+      "qid": "2024-40863",
+      "intent": "fact_finding",
+      "domain": "medicine, healthcare",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed information on the physiological and psychological effects of bee stings.",
+          "Articles authored by experts in medicine or healthcare, particularly those specializing in pain management or allergic reactions.",
+          "Comprehensive studies or reviews that discuss both short-term and long-term impacts of bee stings on quality of life."
+        ],
+        "negative_criteria": [
+          "Documents that lack scientific backing or are based on anecdotal evidence without proper references.",
+          "Content that is overly simplistic and does not address the complexities of the effects of bee stings.",
+          "Articles that are outdated or not relevant to current medical understanding of bee stings."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, quotable statements or statistics relevant to the impact of bee stings on quality of life.",
+          "Self-contained articles that summarize key findings and implications without requiring extensive background knowledge.",
+          "Sources that are credible, such as peer-reviewed journals or reputable medical organizations."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how did andrew carnegie impact modern medicine",
+      "qid": "2024-35284",
+      "intent": "fact_finding",
+      "domain": "history, medicine",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed historical context about Andrew Carnegie's contributions and their relevance to modern medicine.",
+          "Sources that discuss specific innovations, funding, or policies introduced by Carnegie that influenced the healthcare sector.",
+          "Articles written by credible historians or experts in the field of medical history."
+        ],
+        "negative_criteria": [
+          "Documents that are overly general and do not specifically address Carnegie's impact on modern medicine.",
+          "Sources lacking citations or references to credible studies or historical accounts.",
+          "Websites or articles that display poor writing quality or are riddled with inaccuracies."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include direct quotes or summaries of Carnegie's contributions that can be easily referenced.",
+          "Self-contained articles that provide a clear answer or overview of Carnegie's impact without requiring external information.",
+          "Sources that are published by reputable institutions or scholars in the field of history or medicine."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what was the role of pan-africanism in the decolon",
+      "qid": "2024-160253",
+      "intent": "fact_finding",
+      "domain": "history, political_science",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a detailed analysis of the impact of Pan-Africanism on decolonization efforts.",
+          "Sources that are authored by reputable historians or political scientists specializing in African studies.",
+          "Comprehensive articles that include case studies, historical context, and key figures associated with Pan-Africanism."
+        ],
+        "negative_criteria": [
+          "Documents that lack scholarly references or are opinion pieces without factual backing.",
+          "Sources that provide incomplete or overly simplistic explanations of the role of Pan-Africanism.",
+          "Irrelevant articles that do not address the decolonization aspect or focus on unrelated topics."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear and quotable passages summarizing the role of Pan-Africanism.",
+          "Self-contained resources that offer a concise overview of key points and historical significance.",
+          "Credible sources that include citations and references for further reading on the subject."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what do studies show about the relationship between stress and memory?",
+      "qid": "2024-136156",
+      "intent": "fact_finding",
+      "domain": "psychology, mental_health",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that cite empirical studies or meta-analyses on stress and memory.",
+          "Comprehensive reviews that discuss various aspects of the relationship between stress and memory.",
+          "Articles or papers authored by recognized experts in psychology or neuroscience."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or rely on anecdotal evidence.",
+          "Articles with superficial coverage that do not delve into the complexities of the relationship.",
+          "Outdated studies that do not reflect current understanding or recent research findings."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that provide clear, quotable statements summarizing findings about stress and memory.",
+          "Self-contained articles that include definitions, study results, and conclusions.",
+          "Sources with high credibility, such as peer-reviewed journals or established academic publications."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "when tariffs disrupt global supply chains",
+      "qid": "2024-173795",
+      "intent": "fact_finding",
+      "domain": "economics, international_trade",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide in-depth analysis of the impact of tariffs on global supply chains.",
+          "Sources that are authored by recognized experts in economics or international trade.",
+          "Comprehensive studies or reports that include case examples and data supporting their findings."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevant data or analysis regarding tariffs and supply chains.",
+          "Sources that are opinion-based without factual backing or credible references.",
+          "Incomplete articles that do not cover the broader implications of tariffs on supply chains."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, quotable statements or statistics relevant to the query.",
+          "Self-contained reports or articles that summarize the effects of tariffs on supply chains.",
+          "Credible sources with a strong reputation that can be reliably cited in discussions or analyses."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what are the mechanism behind sea level rise and its impacts on",
+      "qid": "2024-127653",
+      "intent": "fact_finding",
+      "domain": "environmental_science, climate_change",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed explanations of the mechanisms behind sea level rise, including scientific principles and data.",
+          "Sources that discuss the socio-economic and environmental impacts of sea level rise comprehensively.",
+          "Articles authored by credible experts or institutions in the field of environmental science or climate research."
+        ],
+        "negative_criteria": [
+          "Documents that provide vague or overly simplistic explanations without scientific backing.",
+          "Sources that are outdated or lack citations from reputable scientific studies.",
+          "Content that is heavily biased or opinion-based without presenting factual information."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include well-structured summaries or key findings that can be easily quoted.",
+          "Self-contained articles that explain concepts thoroughly without requiring additional context.",
+          "Sources that are published in peer-reviewed journals or by recognized authorities in climate science."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how to help students understand number of deaths in world war 1",
+      "qid": "2024-88894",
+      "intent": "solution_seeking",
+      "domain": "history, education",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide clear explanations and statistics about the number of deaths in World War 1.",
+          "Sources that include teaching strategies or methods for educators to help students grasp the significance of these statistics.",
+          "Articles from reputable historical or educational institutions that offer comprehensive insights."
+        ],
+        "negative_criteria": [
+          "Documents that are unrelated to World War 1 or focus on different historical events.",
+          "Sources that lack credible citations or are from unknown authors, which may diminish trustworthiness.",
+          "Incomplete articles that do not provide enough context or detail about the topic."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include quotable statistics or facts that can be easily referenced.",
+          "Self-contained information that offers a complete view on the topic, making it easy to extract relevant answers.",
+          "Sources from credible organizations or experts in history or education that enhance the reliability of the information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "is the study of personality unique to western cultures",
+      "qid": "2024-113646",
+      "intent": "comparison_seeking",
+      "domain": "psychology, cultural_studies",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a comprehensive overview of personality studies across different cultures, including both Western and non-Western perspectives.",
+          "Sources authored by recognized experts in psychology or cultural studies, demonstrating a high level of authority.",
+          "Research studies or articles that offer empirical evidence and detailed analysis regarding cultural differences in personality studies."
+        ],
+        "negative_criteria": [
+          "Documents that are overly general or fail to address the specific comparison between Western and non-Western cultures.",
+          "Sources that lack scholarly credibility, such as personal blogs or unverified websites.",
+          "Incomplete articles that do not provide a thorough exploration of the topic or lack citations."
+        ],
+        "utility_for_answer_generation": [
+          "Well-cited documents that can be easily quoted to support arguments or provide definitions.",
+          "Self-contained information that addresses the query directly, providing clear comparisons and conclusions.",
+          "High-quality sources that are reputable and recognized in the field, ensuring reliability in the information presented."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "were the crusades a failure or a success for chris",
+      "qid": "2024-126056",
+      "intent": "comparison_seeking",
+      "domain": "history, medieval_studies",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a balanced analysis of the successes and failures of the Crusades, especially in relation to Christian perspectives.",
+          "Sources written by reputable historians or scholars specializing in medieval history or religious studies.",
+          "Comprehensive articles that cover various aspects of the Crusades, including political, religious, and social impacts."
+        ],
+        "negative_criteria": [
+          "Documents that present a biased or one-sided view without acknowledging counterarguments.",
+          "Sources that lack citations or are from non-credible or non-academic websites.",
+          "Incomplete articles that only address one side of the success or failure debate without sufficient depth."
+        ],
+        "utility_for_answer_generation": [
+          "Well-cited documents that can be quoted to support different viewpoints on the Crusades' outcomes.",
+          "Self-contained essays or articles that summarize the successes and failures in a coherent manner.",
+          "Sources from established publishers or journals that are recognized for their scholarly contributions."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why was the debt percentages of abraham lincoln so low",
+      "qid": "2024-225026",
+      "intent": "fact_finding",
+      "domain": "history, economics",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide historical context and analysis of Abraham Lincoln's debt management and fiscal policies.",
+          "Sources that include primary documents or well-researched articles from credible historians or economic analysts.",
+          "Comprehensive discussions that detail the economic conditions during Lincoln's presidency and how they influenced debt levels."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or are based on speculation rather than factual historical evidence.",
+          "Articles that are overly simplistic or fail to address the complexities of Lincoln's economic policies.",
+          "Content that contains misinformation or irrelevant tangents unrelated to Lincoln's debt percentages."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain direct quotes or data points regarding Lincoln's debt percentages and fiscal decisions.",
+          "Self-contained articles that summarize key facts and perspectives, making it easy to extract relevant information.",
+          "Sources with high academic credibility, such as peer-reviewed journals or published books by reputable historians."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how does priviledge connects with being heard in the classroom",
+      "qid": "2024-41960",
+      "intent": "comparison_seeking",
+      "domain": "education, sociology",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a clear definition of privilege and its implications in educational settings.",
+          "Research studies or articles that explore the relationship between privilege and student voice in the classroom.",
+          "Comprehensive analyses that include case studies or real-life examples illustrating the dynamics of privilege and being heard."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or are based on personal opinions without empirical support.",
+          "Content that is off-topic or does not directly address the connection between privilege and classroom participation.",
+          "Incomplete articles that do not fully explore the topic or provide superficial insights."
+        ],
+        "utility_for_answer_generation": [
+          "Sources that are quotable, providing clear and impactful statements regarding privilege and student voice.",
+          "Self-contained documents that summarize key points effectively, allowing for easy extraction of relevant information.",
+          "Credible academic articles or reports from recognized institutions that enhance the reliability of the answer."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how gulf states are putting their money into mining",
+      "qid": "2024-43905",
+      "intent": "fact_finding",
+      "domain": "economics, natural_resources",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed information on investments made by Gulf states in the mining sector.",
+          "Sources that include statistics, case studies, or reports from reputable organizations or experts in the field.",
+          "Comprehensive analyses that discuss the implications of these investments for both the Gulf states and the global mining industry."
+        ],
+        "negative_criteria": [
+          "Articles that lack specific examples or data related to Gulf states' investments in mining.",
+          "Content that is overly general or focuses on unrelated topics without relevant connections.",
+          "Documents that are poorly written, contain numerous errors, or lack credible references."
+        ],
+        "utility_for_answer_generation": [
+          "Sources that can be quoted directly to support claims about Gulf states' investments.",
+          "Self-contained articles that summarize key findings and insights regarding mining investments.",
+          "Credible sources such as government publications, industry reports, or expert analyses that enhance the reliability of the information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how businesses that manage their working capital well stay healthy",
+      "qid": "2024-33359",
+      "intent": "solution_seeking",
+      "domain": "business, finance",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed strategies or best practices for managing working capital effectively.",
+          "Authoritative sources such as financial experts, business journals, or case studies demonstrating successful business practices.",
+          "Comprehensive analyses that cover the implications of working capital management on overall business health."
+        ],
+        "negative_criteria": [
+          "Documents that are overly generic and do not specifically address the management of working capital.",
+          "Poorly written articles or sources that lack credibility, such as unverified blogs or opinion pieces.",
+          "Incomprehensive documents that do not provide actionable insights or relevant data."
+        ],
+        "utility_for_answer_generation": [
+          "Quotable insights from reputable sources that can be directly used to support claims about healthy business practices.",
+          "Self-contained information that covers the topic without requiring extensive external references.",
+          "Sources that are well-cited and have a strong reputation in the field of business finance."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "do illegal immigrants get free healthcare",
+      "qid": "2024-22886",
+      "intent": "fact_finding",
+      "domain": "medicine, healthcare",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide clear, factual information on healthcare access for illegal immigrants, including statistics and legal interpretations.",
+          "Sources from reputable healthcare organizations, government agencies, or academic institutions that offer comprehensive coverage of the topic.",
+          "Articles that include recent data or case studies illustrating the experiences of illegal immigrants in accessing healthcare services."
+        ],
+        "negative_criteria": [
+          "Documents that contain opinion pieces or unverified claims without supporting evidence related to healthcare for illegal immigrants.",
+          "Sources that are outdated or lack citations from credible authorities, leading to potential misinformation.",
+          "Content that is overly biased or emotionally charged without presenting balanced viewpoints or factual data."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that are self-contained, providing a thorough explanation of the issue along with relevant examples or case studies.",
+          "Sources that can be quoted directly to answer the query succinctly, enhancing clarity and credibility.",
+          "Materials that cite their sources clearly, allowing for verification of information and enhancing trustworthiness."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how did american leaders think the marshall plan would help american businesses?",
+      "qid": "2024-35269",
+      "intent": "fact_finding",
+      "domain": "history, economics",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed historical context regarding the Marshall Plan and its intended effects on American businesses.",
+          "Sources authored by credible historians or economists that analyze the perspectives of American leaders at the time.",
+          "Comprehensive articles that discuss both the economic implications of the Marshall Plan and its perceived benefits for American enterprises."
+        ],
+        "negative_criteria": [
+          "Documents that lack citations or credible authorship, leading to questions about their validity.",
+          "Articles that provide irrelevant information or focus on unrelated topics, such as general history without specific focus on American businesses.",
+          "Incomplete analyses that do not address the specific thoughts or opinions of American leaders regarding the Marshall Plan."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include direct quotes from American leaders or primary sources reflecting their thoughts on the Marshall Plan.",
+          "Self-contained articles that summarize key points clearly, making it easy to extract relevant information.",
+          "High-quality sources that are widely recognized and referenced in academic discussions about the Marshall Plan."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "does aarp tend to be democratic or republican",
+      "qid": "2024-25032",
+      "intent": "comparison_seeking",
+      "domain": "politics, social_organizations",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a thorough analysis of AARP's political affiliations and activities.",
+          "Sources that cite credible surveys or studies showing AARP's political tendencies.",
+          "Information that includes expert opinions or quotes from political analysts regarding AARP's alignment."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or references to support claims about AARP's political stance.",
+          "Articles that are overly biased or opinion-based without factual backing.",
+          "Content that does not directly address the query or strays off-topic."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include clear, concise summaries of AARP's political involvement.",
+          "Sources that are well-organized and allow for easy extraction of key points.",
+          "Information that is from reputable organizations or publications known for political analysis."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "who is the client base for sex trafficking",
+      "qid": "2024-206384",
+      "intent": "fact_finding",
+      "domain": "social_sciences, law, human_rights",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed statistics or demographics about individuals involved in sex trafficking as clients.",
+          "Sources from reputable organizations or academic institutions that discuss the social and economic factors contributing to sex trafficking.",
+          "Comprehensive articles or reports that explore the context and nuances of client bases in sex trafficking."
+        ],
+        "negative_criteria": [
+          "Documents that are anecdotal or lack credible sources to support their claims about client bases.",
+          "Websites or articles that offer sensationalized or overly simplistic views of sex trafficking without proper context.",
+          "Content that is outdated or does not reflect current understanding or data regarding sex trafficking."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include clear and quotable statistics related to sex trafficking clients.",
+          "Self-contained articles that summarize key points about the client base in sex trafficking, allowing for easy extraction of information.",
+          "Sources with high credibility, such as government reports, NGO publications, or peer-reviewed studies that can be referenced reliably."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what do parents contribute to the family-teacher partnership?",
+      "qid": "2024-135747",
+      "intent": "fact_finding",
+      "domain": "education, family_relationships",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide specific examples of parental contributions to family-teacher partnerships.",
+          "Authoritative sources, such as research studies or expert opinions, that discuss the role of parents in educational settings.",
+          "Comprehensive articles that cover various aspects of family-teacher partnerships, including benefits and strategies for effective collaboration."
+        ],
+        "negative_criteria": [
+          "Documents that are irrelevant and do not address the concept of family-teacher partnerships.",
+          "Low-quality articles with vague or unsupported claims regarding parental contributions.",
+          "Incomplete or outdated information that fails to provide a clear understanding of the topic."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable insights or statistics that support the discussion on parental contributions.",
+          "Self-contained information that clearly outlines parental roles within the partnership, making it easy to extract key points.",
+          "Credible sources, such as educational journals or recognized organizations, that enhance the trustworthiness of the information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "is there a policy in the us for social media relation to mental",
+      "qid": "2024-114095",
+      "intent": "fact_finding",
+      "domain": "psychology, mental_health",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide clear information about existing policies or guidelines related to social media and mental health in the US.",
+          "Sources that are authoritative, such as government reports, academic articles, or reputable organizations focused on mental health.",
+          "Comprehensive overviews that discuss the implications of social media on mental health and any relevant policy frameworks."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevant information or do not address the relationship between social media and mental health policies.",
+          "Sources that are not credible, such as personal blogs or unverified articles that do not provide factual support.",
+          "Incomplete documents that only touch on one aspect without providing a full understanding of the policies."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable statements or statistics that can directly address the query.",
+          "Self-contained information that summarizes key policies and their impacts on mental health.",
+          "Sources with high credibility, such as peer-reviewed journals or official government publications, ensuring reliability in the provided information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how does edi impact nursing",
+      "qid": "2024-41198",
+      "intent": "fact_finding",
+      "domain": "medicine, healthcare",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide comprehensive explanations of Electronic Data Interchange (EDI) and its applications in nursing.",
+          "Sources authored by reputable healthcare professionals or institutions that demonstrate authority in the field.",
+          "Articles that include case studies or practical examples illustrating the impact of EDI on nursing practices."
+        ],
+        "negative_criteria": [
+          "Documents that lack specific information about EDI and its relevance to nursing.",
+          "Sources with unclear authorship or low credibility, such as personal blogs without expert validation.",
+          "Articles that provide outdated information or do not address the current state of EDI in nursing."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clearly defined sections or summaries that can be easily quoted.",
+          "Self-contained articles that provide the necessary context and information without requiring extensive additional sources.",
+          "Credible sources that include citations and references to support their claims and enhance trustworthiness."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how rent seeking tactics lead to forced and blocked exchagnes",
+      "qid": "2024-76908",
+      "intent": "definition_and_solution_seeking",
+      "domain": "economics, political_economy",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide clear definitions of rent-seeking tactics and their implications on exchanges.",
+          "Research articles or papers that offer comprehensive analyses of the relationship between rent-seeking and forced or blocked exchanges.",
+          "Sources from authoritative economists or recognized institutions that discuss practical examples and solutions related to rent-seeking."
+        ],
+        "negative_criteria": [
+          "Documents that are overly simplistic or do not provide substantial depth on the topic.",
+          "Outdated sources that lack current relevance or fail to incorporate recent developments in economic theory.",
+          "Content that is opinion-based without supporting evidence or citations from credible sources."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain well-cited information and are likely to be quotable in discussions or papers.",
+          "Sources that offer self-contained information, explaining both rent-seeking tactics and their consequences in detail.",
+          "Publications from reputable journals or authors known for their expertise in economics that can enhance the credibility of the response."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why has postmodernism to date, had little impact on government education schemes?",
+      "qid": "2024-219626",
+      "intent": "fact_finding",
+      "domain": "philosophy, education",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a comprehensive overview of postmodernism and its principles as they relate to education.",
+          "Sources that discuss the historical context and impact of postmodernism on educational policies and schemes.",
+          "Authoritative analyses or studies examining the relationship between postmodernism and government education initiatives."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevance to postmodernism or government education schemes.",
+          "Poorly researched articles or opinion pieces with insufficient evidence or citations.",
+          "Incomplete discussions that do not address the query's core question about impact."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, quotable statements or conclusions regarding the impact of postmodernism on education.",
+          "Self-contained articles that summarize key points about postmodernism's influence on government education schemes.",
+          "Credible sources, such as peer-reviewed papers or books by recognized experts in the field."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how often do officers kill innocent victims",
+      "qid": "2024-73918",
+      "intent": "fact_finding",
+      "domain": "criminal_justice, law_enforcement",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide statistical data or research findings on officer-involved killings and their context.",
+          "Articles from reputable sources that discuss the frequency of innocent victims in the context of law enforcement.",
+          "Comprehensive reports or studies that analyze trends over time and include expert opinions or case studies."
+        ],
+        "negative_criteria": [
+          "Documents that are opinion pieces or lack empirical evidence, making claims without supporting data.",
+          "Sources that are outdated or do not reflect current statistics or methodologies in law enforcement.",
+          "Low-quality websites with sensationalist headlines that do not provide substantial information or references."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include clear statistics and citations that can be easily quoted in discussions or analyses.",
+          "Self-contained reports that summarize findings and provide context without needing additional resources.",
+          "Sources from well-established organizations or academic institutions that enhance credibility and reliability."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why have we lost so many nematicides over the past 2-3 decades",
+      "qid": "2024-219661",
+      "intent": "fact_finding",
+      "domain": "agriculture, pest_management",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a historical overview of nematicides and their regulatory changes over the past few decades.",
+          "Sources from authoritative agricultural or environmental organizations that explain the reasons for the decline in nematicide usage.",
+          "Comprehensive analyses that discuss alternative pest management strategies and the impact of losing nematicides."
+        ],
+        "negative_criteria": [
+          "Articles that lack detailed information or sources, leading to a superficial understanding of the topic.",
+          "Documents that present outdated or irrelevant information not connected to the past 2-3 decades.",
+          "Opinions or personal blogs that do not provide evidence or authoritative backing for their claims."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain well-cited statistics or studies that can be quoted to substantiate the reasons for nematicide loss.",
+          "Self-contained articles that summarize the issue clearly and provide actionable insights or conclusions.",
+          "Sources with high credibility, such as peer-reviewed journals or government reports, that can be reliably referenced."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why might farmland of good quality encourage settlement?",
+      "qid": "2024-223914",
+      "intent": "fact_finding",
+      "domain": "geography, agriculture, sociology",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide comprehensive explanations of the relationship between farmland quality and settlement patterns.",
+          "Sources authored by experts in agriculture, sociology, or geography that cite relevant studies or data.",
+          "Articles that discuss historical or contemporary examples of settlement influenced by farmland quality."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevance to the topic, such as those discussing unrelated agricultural practices or settlements.",
+          "Sources that are poorly written or contain numerous factual inaccuracies.",
+          "Incomplete articles that do not fully address the query or fail to provide supporting evidence."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include quotable statistics or expert opinions that can be used to substantiate claims.",
+          "Self-contained articles that answer the query directly without requiring excessive cross-referencing to other sources.",
+          "Credible sources from recognized institutions or peer-reviewed journals that enhance the reliability of the information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how did washington respond to ecnonmic changes during the 1800s",
+      "qid": "2024-37173",
+      "intent": "fact_finding",
+      "domain": "history, economics",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed historical analysis of Washington's policies and decisions related to economic changes during the 1800s.",
+          "Sources that are authored by reputable historians or economic scholars, ensuring authority and trustworthiness.",
+          "Comprehensive articles that cover a range of economic changes and provide context for Washington's responses."
+        ],
+        "negative_criteria": [
+          "Documents that lack specific information about Washington's actions or are overly general about the 1800s without reference to economic changes.",
+          "Sources that are not peer-reviewed or from unreliable websites, indicating poor quality.",
+          "Incomplete information that fails to address the query's focus on Washington's responses, such as documents that discuss general economic trends without mentioning Washington."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable excerpts or well-cited statistics that can support specific points regarding Washington's responses.",
+          "Self-contained articles that summarize Washington's economic policies clearly, making them easy to reference in answer generation.",
+          "Credible sources that provide bibliographic information or links to primary sources for further research."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why is a gang considered an unlikely place to develop healthy friendships?",
+      "qid": "2024-219824",
+      "intent": "fact_finding",
+      "domain": "psychology, sociology",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide psychological insights into group dynamics and relationships within gangs.",
+          "Articles from reputable sources that explore the social implications of gang culture on friendship development.",
+          "Studies or research papers that detail the characteristics of healthy friendships and contrast them with gang relationships."
+        ],
+        "negative_criteria": [
+          "Documents that are overly general or fail to address the specific context of gangs and friendships.",
+          "Sources that lack credible authorship or are from unreliable platforms.",
+          "Content that does not provide enough depth or analysis on the topic."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain direct quotes or statistics relevant to the query.",
+          "Self-contained articles that summarize key points about gang culture and friendships.",
+          "Research papers or essays with citations from credible sources that can support the claims made."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how has zabriskie point's climate changed?",
+      "qid": "2024-44059",
+      "intent": "fact_finding",
+      "domain": "environment, climate_change",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed historical climate data for Zabriskie Point.",
+          "Sources authored by reputable climate scientists or institutions with expertise in environmental studies.",
+          "Comprehensive analyses that discuss the factors influencing climate change in the region."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevant information about Zabriskie Point specifically.",
+          "Poorly sourced articles or those with no credible references.",
+          "Incomplete information that does not address the query about climate change."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include specific, quotable statistics or examples regarding climate change at Zabriskie Point.",
+          "Self-contained articles that summarize the climate changes and their implications clearly.",
+          "Sources that are recent and reflect current understanding in climate science."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how are the olympics unfluenced by greek",
+      "qid": "2024-32796",
+      "intent": "fact_finding",
+      "domain": "history, sports",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a historical context of the Olympics and their relation to Greek influence.",
+          "Sources that are authoritative, such as academic journals or books by recognized historians.",
+          "Comprehensive articles that explore various aspects of the Olympics and Greek culture, including rituals, philosophy, and sports."
+        ],
+        "negative_criteria": [
+          "Documents that are irrelevant to the topic, such as those focusing solely on modern Olympics without any reference to Greek history.",
+          "Poor quality sources, including blogs or unverified websites that lack credible information.",
+          "Incompletely addressed topics that do not provide a thorough understanding of Greek influence on the Olympics."
+        ],
+        "utility_for_answer_generation": [
+          "Quotable passages that succinctly summarize the Greek influence on the Olympics.",
+          "Self-contained information that provides a clear answer to the query without requiring extensive background knowledge.",
+          "Credible sources that can be cited in further research or discussions about the topic."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why do marines not get paid well",
+      "qid": "2024-217279",
+      "intent": "fact_finding",
+      "domain": "military, finance",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide comprehensive explanations regarding the pay structure of military personnel, particularly marines.",
+          "Sources that include statistical data or comparisons with civilian salaries to highlight pay disparities.",
+          "Articles or reports from reputable military or governmental organizations that discuss the factors influencing military pay."
+        ],
+        "negative_criteria": [
+          "Documents that contain outdated or inaccurate information regarding marine salaries.",
+          "Sources that lack credibility or are from unknown authors or websites.",
+          "Content that is overly opinionated or lacks factual backing, providing little useful information."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that have clear, concise, and quotable information suitable for direct use in answering the query.",
+          "Sources that are self-contained, providing a full understanding of the topic without requiring additional context.",
+          "Articles that cite reliable data or studies, enhancing their credibility and usefulness in generating accurate responses."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what us trade policies help aid chinese growth?",
+      "qid": "2024-158261",
+      "intent": "solution_seeking",
+      "domain": "economics, international_trade",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide comprehensive analyses of specific US trade policies and their impacts on Chinese economic growth.",
+          "Sources authored by recognized experts or authorities in international trade or economics.",
+          "Articles that include case studies or empirical data demonstrating the relationship between US trade policies and Chinese growth."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevance to the specific relationship between US trade policies and Chinese economic growth.",
+          "Sources that contain poorly researched or biased opinions rather than factual information.",
+          "Articles that are overly general and do not focus on the specific dynamics of US-China trade relations."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include clear statistics or quotes that can be directly cited to support claims.",
+          "Self-contained articles that summarize key points and provide actionable insights regarding US trade policies and their effects.",
+          "Credible sources that are peer-reviewed or published by reputable institutions or organizations in the field of economics."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why do juliets feelings about marraige change",
+      "qid": "2024-217241",
+      "intent": "fact_finding",
+      "domain": "literature, drama",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed analysis of Juliet's character development in relation to marriage in Shakespeare's 'Romeo and Juliet'.",
+          "Sources that include scholarly interpretations or critiques of the text, demonstrating authority and depth.",
+          "Comprehensive reviews that discuss the thematic elements of love, marriage, and personal conflict as they pertain to Juliet's evolving feelings."
+        ],
+        "negative_criteria": [
+          "Documents that lack direct references to 'Romeo and Juliet' or do not focus on Juliet's character specifically.",
+          "Sources that provide superficial or overly simplistic explanations without textual evidence or analysis.",
+          "Articles or essays with low credibility, such as those from unverified or non-academic platforms."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include direct quotes from 'Romeo and Juliet' to support claims about Juliet's changing feelings.",
+          "Self-contained analyses that summarize key points regarding Juliet's perspective on marriage without requiring extensive background knowledge.",
+          "Credible sources authored by recognized scholars in literature or Shakespearean studies that can be reliably cited."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "did old dominion commit voter fraud",
+      "qid": "2024-18963",
+      "intent": "fact_finding",
+      "domain": "politics, election_integrity",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide verified and credible evidence regarding any allegations of voter fraud involving Old Dominion.",
+          "Sources that include expert analysis or official reports related to voter fraud investigations.",
+          "Comprehensive articles that discuss the context, implications, and outcomes of the voter fraud claims."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or rely on unverified claims and conspiracy theories.",
+          "Content that is outdated or irrelevant to the specific case of Old Dominion and voter fraud.",
+          "Sources that provide incomplete information or do not address the query directly."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include direct quotes from reputable sources or officials regarding the allegations.",
+          "Self-contained articles that summarize the issue clearly and provide necessary background information.",
+          "Sources with high credibility such as academic journals, government publications, or well-respected news outlets."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "did people trust the telephone when it was invented",
+      "qid": "2024-19025",
+      "intent": "fact_finding",
+      "domain": "history, technology",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide historical context and public opinion regarding the telephone's invention.",
+          "Sources that include statistics, surveys, or quotes from contemporary sources about trust in the telephone.",
+          "Comprehensive articles that cover the societal impact of the telephone at the time of its introduction."
+        ],
+        "negative_criteria": [
+          "Documents that are irrelevant to the topic, such as those discussing modern telecommunications without historical context.",
+          "Poor quality articles that lack citations or are from unverified sources.",
+          "Incomplete information that fails to address the specific question of trust at the time of invention."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that are quotable and provide clear, concise statements about public perception of the telephone.",
+          "Self-contained articles that adequately answer the query without requiring extensive additional information.",
+          "Credible sources, such as academic papers or historical analyses, that can be referenced for accuracy."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what happens if you are deemed a public menace",
+      "qid": "2024-141577",
+      "intent": "fact_finding",
+      "domain": "law, criminal_justice",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide clear legal definitions and explanations of being deemed a public menace.",
+          "Sources that discuss the consequences, both legal and social, of being categorized as a public menace.",
+          "Comprehensive articles that cover various scenarios, case studies, and expert opinions on the topic."
+        ],
+        "negative_criteria": [
+          "Documents that are overly vague or do not directly address the concept of public menace.",
+          "Low-quality sources that lack authority, such as personal blogs or unverified websites.",
+          "Incomplete information that fails to outline the potential consequences or legal implications."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include quotable quotes or legal references that can be cited.",
+          "Self-contained articles that succinctly summarize the key points regarding the implications of being deemed a public menace.",
+          "Credible sources, such as legal journals, government publications, or expert analyses, that enhance trust in the information provided."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "are true crime narratives a popular content writing niche",
+      "qid": "2024-7058",
+      "intent": "fact_finding",
+      "domain": "writing, content_creation",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide statistical data or trends related to the popularity of true crime narratives in content writing.",
+          "Articles that feature expert opinions or case studies on successful true crime content strategies.",
+          "Comprehensive guides or analyses that discuss the characteristics and audience engagement of true crime narratives."
+        ],
+        "negative_criteria": [
+          "Documents that are overly opinionated without supporting data or references.",
+          "Low-quality articles with poor grammar or structure that lack depth in discussing the topic.",
+          "Sources that do not specifically address true crime narratives or focus on unrelated content writing niches."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain direct quotes or statistics that can be cited as evidence.",
+          "Self-contained articles that summarize key points about true crime narratives and their appeal.",
+          "Sources from reputable publishers or platforms known for their authority in writing and content marketing."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how do people engage over the new deal programs",
+      "qid": "2024-38461",
+      "intent": "fact_finding",
+      "domain": "history, economics, public_policy",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed case studies or examples of public engagement with New Deal programs.",
+          "Sources that are authored by reputable historians or economists with authority on the subject.",
+          "Comprehensive analyses that cover various perspectives on public engagement and outcomes of the New Deal programs."
+        ],
+        "negative_criteria": [
+          "Articles that lack credible sources or citations to back claims regarding public engagement.",
+          "Documents that provide superficial information without depth or critical analysis.",
+          "Content that is outdated or not relevant to the historical context of the New Deal programs."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable statistics or direct quotes from participants in New Deal programs.",
+          "Self-contained articles that summarize engagement methods and impacts effectively.",
+          "Sources that offer a balanced view, including both positive and negative aspects of public engagement."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what change did marius make in the roman empire",
+      "qid": "2024-129925",
+      "intent": "fact_finding",
+      "domain": "history, ancient_rome",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed information on Marius's reforms and their impact on the Roman Empire.",
+          "Sources that are authored by historians or experts in Roman history, showcasing authority and credibility.",
+          "Comprehensive articles or texts that cover both the context of Marius's changes and their long-term effects."
+        ],
+        "negative_criteria": [
+          "Documents that are overly general or do not specifically address Marius's contributions.",
+          "Sources with poor writing quality, lacking citations or references to reputable historical research.",
+          "Incompletely presented information that fails to explain the significance of Marius's changes."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include direct quotes or well-sourced claims about Marius's reforms.",
+          "Self-contained articles that cover the necessary background information and implications of Marius's changes.",
+          "Sources that are published by reputable academic institutions or recognized historians."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what was entertainment like in the 1990s in the us",
+      "qid": "2024-158677",
+      "intent": "fact_finding",
+      "domain": "entertainment, cultural_history",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a comprehensive overview of various entertainment forms in the 1990s, such as music, television, film, and video games.",
+          "Sources that are authoritative, such as academic articles, reputable news outlets, or books written by experts in cultural studies.",
+          "Content that includes specific examples, trends, and significant events from the 1990s entertainment scene."
+        ],
+        "negative_criteria": [
+          "Documents that are too general and do not specifically address the 1990s or focus on entertainment in other decades.",
+          "Sources that lack credibility, such as personal blogs or opinion pieces with no factual backing.",
+          "Incomplete documents that provide only superficial information without context or depth."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable material, such as direct quotes from notable figures in the entertainment industry during the 1990s.",
+          "Self-contained information that answers the query directly without requiring extensive additional context.",
+          "Sources that are well-cited and provide references for further reading, enhancing their reliability."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how do native indians feel about themselves",
+      "qid": "2024-38379",
+      "intent": "fact_finding",
+      "domain": "psychology, mental_health",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide insights into the self-perception and identity of Native Indians, including cultural and psychological perspectives.",
+          "Sources that are authored by experts in Native American studies or psychology, ensuring authoritative viewpoints.",
+          "Comprehensive analyses that include statistical data, personal narratives, and case studies to provide a well-rounded understanding."
+        ],
+        "negative_criteria": [
+          "Documents that contain generalizations or stereotypes about Native Indians without substantive evidence or context.",
+          "Poorly sourced articles that lack credibility or are authored by individuals without relevant expertise.",
+          "Incomplete information that fails to address the complexity of Native Indian identity and feelings about self."
+        ],
+        "utility_for_answer_generation": [
+          "Quotable insights from Native Indians themselves or reputable scholars that can be directly referenced.",
+          "Self-contained articles that provide clear, concise information on the topic without requiring extensive additional context.",
+          "High-quality sources that are recognized in the field of psychology or social studies, ensuring that the information is credible and trustworthy."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what are some of the issues related to aging and the workplace?",
+      "qid": "2024-127288",
+      "intent": "fact_finding",
+      "domain": "psychology, sociology, workforce_management",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a comprehensive overview of aging-related issues in the workplace, including psychological and social factors.",
+          "Sources that are authored by recognized experts or organizations in the fields of psychology, sociology, or human resources.",
+          "Articles or reports that include case studies or real-world examples that illustrate the impact of aging on workplace dynamics."
+        ],
+        "negative_criteria": [
+          "Documents that are overly general and do not specifically address the intersection of aging and workplace issues.",
+          "Sources lacking citations or references, indicating poor quality or reliability.",
+          "Content that is outdated or fails to reflect current research and trends related to aging in the workforce."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, quotable statements or statistics regarding aging and workplace challenges.",
+          "Self-contained articles that summarize key points effectively without requiring further research.",
+          "Credible sources with established authority in the field, such as academic journals or government reports, that can be reliably referenced."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what does it mean for a cybercrime to appeal to a victim",
+      "qid": "2024-137182",
+      "intent": "definition_seeking",
+      "domain": "technology, cybersecurity",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide clear definitions of how cybercrime can appeal to victims.",
+          "Sources that include case studies or examples illustrating the concept.",
+          "Highly authoritative articles from recognized experts or organizations in cybersecurity."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevant information or do not address the query directly.",
+          "Sources that contain outdated or inaccurate information about cybercrime.",
+          "Poorly structured writings that do not provide a coherent explanation."
+        ],
+        "utility_for_answer_generation": [
+          "Articles that contain quotable statements or definitions that can be used directly in an answer.",
+          "Self-contained documents that summarize the topic without requiring external references.",
+          "Credible sources such as academic papers or reports from reputable cybersecurity organizations."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why a comprehensive crypto bill is unlikely to pass",
+      "qid": "2024-213469",
+      "intent": "fact_finding",
+      "domain": "politics, legislation, cryptocurrency",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a thorough analysis of the current legislative environment regarding cryptocurrency.",
+          "Sources that include expert opinions or insights from lawmakers or policy analysts.",
+          "Comprehensive articles that detail the historical context of crypto legislation and the challenges faced."
+        ],
+        "negative_criteria": [
+          "Content that lacks depth or fails to address the complexities of the legislative process.",
+          "Articles that are overly opinionated without backing evidence or factual support.",
+          "Documents that are outdated or do not reflect the current state of cryptocurrency legislation."
+        ],
+        "utility_for_answer_generation": [
+          "Sources that contain direct quotes from credible experts or legislative members.",
+          "Self-contained documents that summarize the key reasons and factors affecting the passage of the bill.",
+          "Credible sources that are recognized for their authority in political analysis and economic policy."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why are cancer rates higher on the east coast",
+      "qid": "2024-213817",
+      "intent": "fact_finding",
+      "domain": "medicine, healthcare",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide statistical data or studies analyzing cancer rates on the East Coast compared to other regions.",
+          "Articles authored by medical professionals or reputable health organizations that offer insights into potential causes of cancer rate discrepancies.",
+          "Comprehensive reviews that discuss environmental, lifestyle, and genetic factors contributing to higher cancer rates in specific geographic areas."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or references, making them less trustworthy.",
+          "Content that presents anecdotal evidence without scientific backing or substantial data.",
+          "Articles that are overly simplistic or do not adequately address the complexities surrounding cancer rates."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include clear statistics or findings that can be directly quoted to support answers.",
+          "Self-contained content that provides a nuanced explanation of the factors influencing cancer rates.",
+          "Sources with high credibility, such as peer-reviewed journals or established health organizations, ensuring reliable information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how does transforming the syllabus into an interactive platform",
+      "qid": "2024-42781",
+      "intent": "solution_seeking",
+      "domain": "education, technology",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide clear examples of interactive platforms used in education.",
+          "Articles written by experts in educational technology or pedagogy that discuss benefits and methodologies.",
+          "Comprehensive guides that outline steps for transforming traditional syllabi into interactive formats."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevance to educational syllabi or interactive platforms.",
+          "Low-quality sources that do not provide detailed or actionable information.",
+          "Incomplete articles that fail to cover the topic broadly or omit key considerations."
+        ],
+        "utility_for_answer_generation": [
+          "Sources that include case studies or testimonials demonstrating the effectiveness of interactive platforms.",
+          "Self-contained documents that summarize the transformation process and its impact on learning outcomes.",
+          "Credible sources with citations from reputable educational institutions or leading experts."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "do individuals who use sarcasm instinctively to tackle frivolous question have healthy minds?",
+      "qid": "2024-22900",
+      "intent": "comparison_seeking",
+      "domain": "psychology, mental_health",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that include empirical studies or psychological theories relating sarcasm and mental health.",
+          "Articles authored by recognized experts in psychology or mental health that provide in-depth analysis.",
+          "Resources that comprehensively discuss the implications of sarcasm on mental well-being and include case studies or examples."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or are authored by non-experts in psychology.",
+          "Content that is overly simplistic or does not provide a nuanced view of sarcasm and mental health.",
+          "Articles that focus on unrelated topics or fail to address the query's core elements."
+        ],
+        "utility_for_answer_generation": [
+          "Documents with clear and quotable statements regarding the relationship between sarcasm and mental health.",
+          "Self-contained articles that provide a complete view on the topic without needing excessive external context.",
+          "Sources that are well-cited and provide links to relevant studies or literature for further reading."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how did escalante encourage students to envision their futures?",
+      "qid": "2024-35620",
+      "intent": "fact_finding",
+      "domain": "education, teaching_methods",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed examples of Escalante's teaching methods and their impact on students.",
+          "Sources that are authoritative, such as academic articles, biographies, or interviews with Escalante or his students.",
+          "Content that is comprehensive and discusses multiple aspects of how Escalante inspired students."
+        ],
+        "negative_criteria": [
+          "Documents that are too general and do not specifically address Escalante's methods or their effects.",
+          "Sources that lack credibility, such as personal blogs or unverified claims.",
+          "Incomplete information that fails to provide a clear picture of the encouragement strategies used by Escalante."
+        ],
+        "utility_for_answer_generation": [
+          "Articles that include direct quotes from Escalante or detailed accounts of his teaching practices.",
+          "Self-contained documents that summarize Escalante's impact on students' future envisioning without requiring additional context.",
+          "High-quality sources with verifiable information that can enhance the credibility of the generated answer."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "why is pure competition considered an unsustainable system?",
+      "qid": "2024-222481",
+      "intent": "definition_and_solution_seeking",
+      "domain": "economics, market_theory",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a clear and comprehensive explanation of pure competition and its sustainability issues.",
+          "Articles authored by recognized experts in economics or market theory that include empirical evidence or case studies.",
+          "Sources that discuss both theoretical aspects and practical implications of pure competition in the market."
+        ],
+        "negative_criteria": [
+          "Documents that contain vague or overly simplistic explanations without context or depth.",
+          "Sources that lack citations or references to credible studies or expert opinions.",
+          "Information that is outdated or does not reflect current economic theories or practices."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include quotable statements or statistics that directly address the sustainability of pure competition.",
+          "Self-contained articles that answer the query without requiring extensive cross-referencing to understand the concepts.",
+          "Sources with high credibility, such as academic journals, economic reviews, or white papers from reputable institutions."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how do sex offenders get out of treatment facilities?",
+      "qid": "2024-38611",
+      "intent": "solution_seeking",
+      "domain": "psychology, mental_health, criminal_justice",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed explanations of the processes and criteria for releasing sex offenders from treatment facilities.",
+          "Sources that are authoritative, such as government publications, academic research, or expert opinions in the field of criminal justice and mental health.",
+          "Comprehensive resources that cover various aspects of the treatment and release process, including legal, psychological, and social factors."
+        ],
+        "negative_criteria": [
+          "Documents that offer vague or unrelated information that does not directly address the query about the release of sex offenders from treatment facilities.",
+          "Low-quality sources such as personal blogs or unverified opinions that lack credible backing.",
+          "Incompleteness or lack of depth in discussing the policies or procedures related to treatment facility releases."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable statistics or statements from credible experts in the field.",
+          "Self-contained information that answers the query directly without requiring additional context or information.",
+          "Sources with clear citations and references to support the claims made regarding treatment facility releases."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "do reform uk’s election claims on tax, immigration and environment add up?",
+      "qid": "2024-23680",
+      "intent": "fact_finding",
+      "domain": "politics, public_policy",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents should provide clear, well-researched analysis of the UK reform party's claims on tax, immigration, and environmental policies.",
+          "Sources should be authoritative, such as government reports, reputable news outlets, or expert analyses.",
+          "Comprehensive coverage of the claims, including supporting evidence and counterarguments, should be included."
+        ],
+        "negative_criteria": [
+          "Documents that contain biased opinions without factual backing or those from unverified sources.",
+          "Incomplete information that fails to address all three topics (tax, immigration, environment) or lacks depth.",
+          "Outdated or irrelevant articles that do not reflect the current political landscape or the specific claims being made."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include quotes from credible sources or experts that can be referenced directly.",
+          "Self-contained information that summarizes the claims and provides relevant context for understanding their implications.",
+          "High credibility of the source, such as academic institutions, government publications, or well-respected media organizations."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how does our use of electronics cause natural disasters",
+      "qid": "2024-41849",
+      "intent": "fact_finding",
+      "domain": "environment, technology",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide clear examples of how electronics can contribute to natural disasters, such as through electronic waste or infrastructure failures.",
+          "Authoritative sources, such as academic papers or reports from recognized environmental organizations, that include data and analysis.",
+          "Comprehensive overviews that discuss both the direct and indirect impacts of electronics on natural disasters."
+        ],
+        "negative_criteria": [
+          "Articles that lack scientific backing or credible sources, leading to misinformation.",
+          "Content that is too vague or does not specifically address the link between electronics and natural disasters.",
+          "Poorly structured documents with incomplete information or irrelevant tangents."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable statistics or statements from experts in the field.",
+          "Self-contained articles that summarize the topic effectively without requiring additional context.",
+          "Sources that are well-cited and provide references for further reading or verification."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what percent of students are bullied because of race",
+      "qid": "2024-149459",
+      "intent": "fact_finding",
+      "domain": "psychology, mental_health",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide statistics or research findings related to racial bullying among students.",
+          "Sources that are published by reputable organizations (e.g., educational institutions, government reports, or peer-reviewed journals).",
+          "Comprehensive articles that discuss the impact of race on bullying, including demographic breakdowns and context."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or references to support their claims.",
+          "Articles that are overly anecdotal without statistical backing or relevant data.",
+          "Content that is outdated or not aligned with current research on bullying and race."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that include clear, quotable statistics relevant to the query, ideally with citations.",
+          "Self-contained information that directly answers the question about the percentage of students bullied due to race.",
+          "Sources that are recognized for their authority in the field, ensuring the information provided is reliable."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "do women regret embracing feminism",
+      "qid": "2024-24226",
+      "intent": "fact_finding",
+      "domain": "psychology, gender_studies",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide comprehensive insights into women's experiences and feelings regarding feminism.",
+          "Articles from credible sources that include statistics, case studies, or expert opinions on the topic.",
+          "Content that offers nuanced perspectives, including both supportive and critical viewpoints on feminism."
+        ],
+        "negative_criteria": [
+          "Documents that present biased or one-sided arguments without substantiated evidence.",
+          "Sources that lack credibility or are from unverified platforms.",
+          "Information that is outdated or fails to address the complexities of the topic."
+        ],
+        "utility_for_answer_generation": [
+          "Documents with clear, quotable statements or testimonials from women about their experiences with feminism.",
+          "Self-contained articles that summarize findings or opinions without requiring extensive cross-referencing.",
+          "Sources that are well-cited and come from reputable publications or research studies."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how did old riaño residents protest relocation?",
+      "qid": "2024-36302",
+      "intent": "fact_finding",
+      "domain": "sociology, community activism",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide detailed accounts of the protests by old Riaño residents, including methods and outcomes.",
+          "Sources that are authoritative, such as news articles, academic studies, or official reports on the relocation and protests.",
+          "Comprehensive analyses that discuss the social, political, and emotional aspects of the protests."
+        ],
+        "negative_criteria": [
+          "Documents that are irrelevant to the specific context of old Riaño or do not mention protests.",
+          "Poorly written or biased sources that lack credible evidence or citations.",
+          "Incomplete information that fails to provide a clear narrative or understanding of the residents' actions."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable statements or firsthand accounts from the residents involved in the protests.",
+          "Self-contained articles that summarize the protests effectively, allowing for easy extraction of key points.",
+          "Credible sources that enhance the reliability of the information, such as those published by reputable news organizations or scholarly journals."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "what society issues did goth rock address",
+      "qid": "2024-152259",
+      "intent": "fact_finding",
+      "domain": "music, sociology",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide comprehensive analysis of the societal issues addressed by goth rock, including historical context.",
+          "Sources written by credible authors or music historians that establish authority on the topic.",
+          "Articles that include specific examples of societal issues, such as mental health, identity, and cultural critique related to goth rock."
+        ],
+        "negative_criteria": [
+          "Documents that lack specific focus on goth rock or fail to mention societal issues.",
+          "Sources with poor writing quality, such as those containing numerous grammatical errors or lack of coherence.",
+          "Articles that provide incomplete or superficial information without adequate depth or analysis."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable insights or statements related to goth rock's societal impact.",
+          "Self-contained articles that provide a clear overview of the issues discussed, making it easy to extract relevant information.",
+          "Credible sources with proper citations that can be referenced for further research or validation of information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how can outsourcing contribute to income inequality?",
+      "qid": "2024-34582",
+      "intent": "solution_seeking",
+      "domain": "economics, labor_market",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide comprehensive analyses of the relationship between outsourcing and income inequality.",
+          "Sources from reputable economists or institutions that specialize in labor economics and inequality studies.",
+          "Articles or studies that include case studies or empirical data demonstrating the effects of outsourcing on income distribution."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or are based on anecdotal evidence.",
+          "Articles that do not specifically address the connection between outsourcing and income inequality, or provide unrelated information.",
+          "Poorly structured documents with unclear arguments or that fail to provide substantial insights."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, quotable statements or statistics relevant to the impact of outsourcing on income inequality.",
+          "Self-contained reports or articles that summarize key findings and implications concisely.",
+          "Sources that are widely recognized for their credibility in the field of economics or social sciences."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "does minimalism comes from creativity?",
+      "qid": "2024-27366",
+      "intent": "fact_finding",
+      "domain": "art, philosophy",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a clear definition of minimalism and its relationship with creativity.",
+          "Resources authored by experts in art or philosophy that discuss the origins and influences of minimalism.",
+          "Comprehensive articles that explore various perspectives on minimalism and creativity, including historical context."
+        ],
+        "negative_criteria": [
+          "Documents that are off-topic or do not address the relationship between minimalism and creativity.",
+          "Low-quality sources with unclear or biased information.",
+          "Incomplete articles that fail to provide sufficient context or depth on the subject."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain quotable insights or expert opinions on minimalism and creativity.",
+          "Self-contained articles that summarize key points and provide sufficient context for understanding the relationship.",
+          "Credible sources, such as academic papers or articles from reputable publications, that can be cited for accurate information."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how does nudging diminish our own moral agency?",
+      "qid": "2024-41796",
+      "intent": "fact_finding",
+      "domain": "psychology, ethics",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a clear explanation of the concept of nudging and its implications on moral agency.",
+          "Authoritative sources such as academic papers or books written by experts in psychology or ethics.",
+          "Comprehensive discussions that include examples, case studies, or relevant research findings."
+        ],
+        "negative_criteria": [
+          "Documents that lack relevance to the topic of nudging and moral agency.",
+          "Poorly written or unsubstantiated articles that do not provide credible evidence or references.",
+          "Incomplete information that fails to address the relationship between nudging and moral agency."
+        ],
+        "utility_for_answer_generation": [
+          "Quotable sections that can be directly cited or referenced in a response to the query.",
+          "Self-contained information that provides a complete answer without requiring additional context.",
+          "High source credibility, such as publications from reputable journals or institutions."
+        ]
+      }
+    },
+    "invocations_history": []
+  },
+  {
+    "query": {
+      "text": "how people get to being in poverty through a loss of job",
+      "qid": "2024-76647",
+      "intent": "fact_finding",
+      "domain": "sociology, economics",
+      "reranking_instruction": {
+        "positive_criteria": [
+          "Documents that provide a comprehensive analysis of the relationship between job loss and poverty.",
+          "Sources that are authored by recognized experts in sociology or economics with cited research.",
+          "Articles that include statistics, case studies, or real-life examples illustrating the impact of job loss on poverty."
+        ],
+        "negative_criteria": [
+          "Documents that lack credible sources or are published by questionable outlets.",
+          "Content that is overly simplistic or fails to address the nuances of the issue.",
+          "Sources that are out-of-date or do not provide relevant data or information."
+        ],
+        "utility_for_answer_generation": [
+          "Documents that contain clear, quotable statements or statistics that effectively summarize the issue.",
+          "Self-contained articles that address the query comprehensively without requiring external context.",
+          "Sources with a high level of trustworthiness, such as peer-reviewed journals or reputable organizations."
+        ]
+      }
+    },
+    "invocations_history": []
+  }
+]
