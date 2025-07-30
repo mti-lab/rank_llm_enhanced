@@ -109,8 +109,15 @@ class BaseInferenceHandler(ABC):
             content = doc["body"]
         else:
             content = doc["passage"]
+
+        # Prepend title if it exists
         if "title" in doc and doc["title"]:
             content = "Title: " + doc["title"] + " " + "Content: " + content
+
+        # Prepend URL if it exists
+        if "url" in doc and doc["url"]:
+            content = "URL: " + doc["url"] + " " + content
+
         content = content.strip()
         content = fix_text(content)
         # For Japanese should cut by character: content = content[:int(max_length)]
